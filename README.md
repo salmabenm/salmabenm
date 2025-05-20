@@ -1,15 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm BENMOUSSA Salma</h1>
-<h3 align="center">Engineering student in Computer Sciences and Artificial Intelligence | Full Stack Developer</h3>
+<h3 align="center">Software Engineer Intern at HPS | Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salmabenm&label=Profile%20views&color=0e75b6&style=flat" alt="salmabenm" /> </p>
 
-- 🔭 I’m currently studying in **Safi National School of Applied Sciences (ENSA)**
-
-- 🌱 I’m currently learning **Web Development | Data Science**
+- 🔭 I’m currently intern at **Hightech Payment Systems - HPS**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
